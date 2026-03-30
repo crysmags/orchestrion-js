@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.1](https://github.com/nodejs/orchestrion-js/compare/code-transformer-v0.11.0...code-transformer-v0.11.1) (2026-03-30)
+
+
+### Bug Fixes
+
+* Updated `Transformer.#visit` to skip visiting VariableDeclarator nodes ([#55](https://github.com/nodejs/orchestrion-js/issues/55)) ([b494f56](https://github.com/nodejs/orchestrion-js/commit/b494f56c57ec33c6ad1995da54a880dec7415d71))
+
 ## [0.11.0](https://github.com/nodejs/orchestrion-js/compare/code-transformer-v0.10.0...code-transformer-v0.11.0) (2026-03-27)
 
 
